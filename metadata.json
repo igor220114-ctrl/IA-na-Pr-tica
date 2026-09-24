@@ -1,0 +1,6 @@
+{
+  "name": "IA na Prática",
+  "description": "Guia simples e completo para usar Inteligência Artificial no dia a dia com eBook completo, leitor moderno, banco de prompts e exercícios práticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
